@@ -3,8 +3,8 @@ Works with linux and OS X.
 
 Requires
 ---------------------------------------------------
-python 2.6 or 2.7
-pycups (can be tricky on OS X)
+- python 2.6 or 2.7
+- pycups (can be tricky on OS X) wich depends on libcups2-dev
 
 Usage
 ---------------------------------------------------
